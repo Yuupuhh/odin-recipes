@@ -1,0 +1,40 @@
+li {
+    color:rgb(0, 26, 255)
+}
+
+li>a {
+    color:rgb(19, 12, 12);
+    background-color: rgb(197, 35, 35);
+    font-size: 22px;
+}
+
+img {
+    height: auto;
+    width: 600px;
+    border: 3px solid rgb(197, 35, 35);
+}
+
+* {
+    font-family: cursive, "Times New Roman", sans-serif;
+}
+
+#special
+ {
+  text-decoration: none;
+  color: black;
+}
+
+button {
+    background-color: rgba(0, 0, 0, 0.562);
+    font-size: 20px;
+    border: 2px solid #000000;
+}
+
+#header {
+    font-size: 33px;
+    font-weight: 900;
+}
+
+body {
+    background-color: rgba(92, 97, 85, 0.384);
+}
